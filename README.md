@@ -1,6 +1,6 @@
 # danarcanjosilva-project
 
-Este é meu primeiro projeto Python no GitLab. Aqui faço testes com scripts simples.
+Este projeto foi feito em Python no GitLab. Aqui faço testes com scripts simples.
 
 ## Como usar
 
@@ -18,7 +18,8 @@ Execute os scripts Python com:
 bash
 Copiar
 Editar
-python3 nome_do_arquivo.py
+python3 conversor_temperatura.py
+
 Contato
 Daniel Arcanjo da Silva
 danarcanjosilva@gmail.com
