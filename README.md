@@ -6,7 +6,7 @@ Este projeto foi feito em Python no GitLab. Aqui faço testes com scripts simple
 
 1. Clone este repositório:
 ```bash
-https://github.com/danarcanjosilva/meu_projeto_gitlab.git
+git clone https://github.com/danarcanjosilva/meu_projeto_gitlab.git
 Entre na pasta do projeto:
 
 bash
